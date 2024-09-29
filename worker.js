@@ -17,7 +17,7 @@ const protect_keylist = [
 ]
 
 let index_html = "https://dljgh.github.io/Url-Shorten-Worker/" + config.theme + "/index.html"
-let result_html = "https://dljgh.github.io/Url-Shorten-Worker/" + config.theme + "/result.html"
+let result_html = "https://crazypeace.github.io/Url-Shorten-Worker/" + config.theme + "/result.html"
 
 const html404 = `<!DOCTYPE html>
   <html>
